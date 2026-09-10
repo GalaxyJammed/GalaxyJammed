@@ -15,7 +15,7 @@ University Student attempting to make fun/useful apps that haven't been made bef
 - &nbsp;I'm currently working on **[My PrescriptBeeper repo](https://github.com/GalaxyJammed/PrescriptBeeper)**  
 - &nbsp;I'm currently learning **Kotlin to create android apps**  
 - &nbsp;Pronouns: **he/him**  
-- &nbsp;Fun fact: **Most of my projects will likely contain referenes to games/other pieces of media**
+- &nbsp;Fun fact: **Most of my projects will likely contain references to games/other pieces of media**
 
 ### 🛠️ Tech Stack
 
