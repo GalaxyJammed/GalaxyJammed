@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/GalaxyJammed">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hello!%20I'm%20GalaxyJammed" alt="Hello! I&#39;m GalaxyJammed" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hello!%20I'm%20GalaxyJam" alt="Hello! I&#39;m GalaxyJammed" />
   </a>
 </p>
 
