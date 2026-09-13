@@ -12,7 +12,7 @@
 
 University Student attempting to make fun/useful apps that haven't been made before.
 
-- &nbsp;I'm currently working on **a mental health journal app (currently private)**  
+- &nbsp;I'm currently working on **[a mental health journal app](https://github.com/GalaxyJammed/ReJournal)**  
 - &nbsp;I'm currently learning **Kotlin to create android apps**  
 - &nbsp;Pronouns: **he/him**  
 - &nbsp;Fun fact: **Most of my projects will likely contain references to games/other pieces of media**
