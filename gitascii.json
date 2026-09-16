@@ -20407,7 +20407,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 1555
+        "y": 1280
       },
       "size": {
         "width": 800,
@@ -20512,23 +20512,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 11
-    },
-    {
-      "instanceId": "widget_1789576787217",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 1280
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 12
     },
     {
       "instanceId": "widget_1789577116645",
