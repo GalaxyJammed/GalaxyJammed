@@ -20,8 +20,6 @@
 </tr>
 </table>
 
-<p><sub>Thus it is decided, the storybook for today's reading</sub></p>
-
 <h2>Proof at a glance</h2>
 
 <table width="100%">
