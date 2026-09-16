@@ -10,18 +10,6 @@
 <p><strong>● Building and sharing work in public</strong></p>
 <p><strong>● Currently working on <a href="https://github.com/GalaxyJammed/ReJournal">ReJournal. The mental health app</a></strong></p>
 
-<p><a href="https://github.com/galaxyjammed">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="GalaxyJam animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
-</div>
-
 <h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
