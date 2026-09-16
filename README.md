@@ -1,43 +1,122 @@
-<p align="center">
-  <a href="https://github.com/GalaxyJammed">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hello!%20I'm%20GalaxyJam" alt="Hello! I&#39;m GalaxyJammed" />
-  </a>
-</p>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · galaxyjammed</sub></p>
+<h1>GalaxyJam</h1>
+<h2>Product-minded developer</h2>
+<p>Thus it is decided, the storybook for today's reading</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><strong>● Currently working on <a href="https://github.com/GalaxyJammed/ReJournal">ReJournal. The mental health app</a></strong></p>
+
+<p><a href="https://github.com/galaxyjammed">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="GalaxyJam animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer · Kotlin</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>117 contributions · 11 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Thus it is decided, the storybook for today's reading</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>117</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tech&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=880&height=44&lines=Attempting%20to%20build%20and%20broaden%20my%20programming%20knowledge" alt="Typing headlines" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="GalaxyJam GitHub proof metrics" />
+</picture>
 </p>
 
-### 🚀 About Me
+<h2>Selected work</h2>
 
-University Student attempting to make fun/useful apps that haven't been made before.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&repos=galaxyjammed%2FPrescriptBeeper%2Cgalaxyjammed%2FReJournal%2Cgalaxyjammed%2FGalaxyJammed&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&repos=galaxyjammed%2FPrescriptBeeper%2Cgalaxyjammed%2FReJournal%2Cgalaxyjammed%2FGalaxyJammed&v=recruiter-projects-1&mode=dark" width="100%" alt="GalaxyJam selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/GalaxyJammed/PrescriptBeeper">PrescriptBeeper</a></h3>
+<p>Prescript Beeper from Limbus Company in the form of an Android App</p>
+<p><sub>Kotlin · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/GalaxyJammed/PrescriptBeeper">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-- &nbsp;I'm currently working on **[a mental health journal app](https://github.com/GalaxyJammed/ReJournal)**  
-- &nbsp;I'm currently learning **Kotlin to create android apps**  
-- &nbsp;Pronouns: **he/him**  
-- &nbsp;Fun fact: **Most of my projects will likely contain references to games/other pieces of media**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/GalaxyJammed/ReJournal">ReJournal</a></h3><p>A free &quot;rejuvenating&quot; open-source mental health journal app because I believe these types of apps should be free and accessible to everyone.</p><p><sub>Kotlin · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/GalaxyJammed/GalaxyJammed">GalaxyJammed</a></h3><p>Profile Description Repository</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 📊 GitHub Stats
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=GalaxyJammed&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=GalaxyJammed&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="GalaxyJam technology stack" />
+</picture>
 </p>
 
-### 📈 Contribution Graph
+<table width="100%">
+<tr>
+<td width="100%" align="center"><strong>Kotlin</strong><br /><sub>100% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=GalaxyJammed&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=galaxyjammed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66970814%3Fu%3D74a4c4edec24177791781bf207a5c7523b05334f%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="GalaxyJam contribution activity" />
+</picture>
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/GalaxyJammed">GalaxyJammed</a></i></p>
+
+<hr />
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="middle">
+      <h2>Doing what I believe is right</h2>
+      <p>Open to thoughtful suggestions for projects within my scope.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="middle" align="center" style="padding-top: 15px;">
+      <img src="https://www.gitskins.com/api/section/social?username=GalaxyJammed&theme=github-dark&style=aura" alt="GitSkins Animated Social Row" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>GalaxyJam · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
