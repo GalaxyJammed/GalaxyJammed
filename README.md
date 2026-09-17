@@ -1,41 +1,30 @@
-# \_Greetings, I'm GalaxyJam.\_
 
-University Student attempting to publish fun projects
+# $${\color{blue}Greetings\ Im\ GalaxyJam!}$$
 
-## Skills
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
-</p>
+## [About Me]
+University Student Attempting to publish fun projects
 
-## Projects
 
-### ReJournal
+## [Additional Info]
+- I'm currently working on - [ReJournal - Mood Logger](https://github.com/GalaxyJammed/ReJournal)
 
-Free Open-Source mental health logging app
+- I'm currently learning - Kotlin & Arduino IDE
 
-[View Project](https://github.com/GalaxyJammed/ReJournal)
+- Fun fact - Most (if not all) projects will contain references to other media
+## [Badges]
 
----
 
-## GitHub Stats
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+  [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=galaxyjammed&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
+  ## [Statistics]
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GalaxyJammed&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=GalaxyJammed&show_icons=true&include_all_commits=true&theme=blue_navy)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyjammed&layout=compact&theme=default" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com/?user=galaxyjammed&theme=default" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/galaxyjammed/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=galaxyjammed" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galaxyjammed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
+## [Current WIP Repository]
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Frejournal&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/rejournal)
