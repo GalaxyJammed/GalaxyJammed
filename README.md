@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - [ReJournal - Mood Logger](https://github.com/GalaxyJammed/ReJournal)
+- I'm currently working on - [SoNotes](https://github.com/GalaxyJammed/SoNotes)
 
 - I'm currently learning - Kotlin & Arduino IDE
 
@@ -27,4 +27,4 @@ University Student Attempting to publish fun projects
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)
 
 ## [Current WIP Repository]
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Frejournal&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/rejournal)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Fsonotes&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/sonotes)
