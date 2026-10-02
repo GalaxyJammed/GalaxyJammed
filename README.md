@@ -28,3 +28,4 @@ University Student Attempting to publish fun projects
 
 ## [Current WIP Repository]
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Fsonotes&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/sonotes)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Fshieldcall&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/shieldcall)
