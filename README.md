@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - [SoNotes](https://github.com/GalaxyJammed/SoNotes)
+- I'm currently working on - [SoNotes](https://github.com/GalaxyJammed/SoNotes) & [ShieldCall](https://github.com/GalaxyJammed/ShieldCall)
 
 - I'm currently learning - Kotlin & Arduino IDE
 
