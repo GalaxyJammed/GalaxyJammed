@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - [SoNotes](https://github.com/GalaxyJammed/SoNotes) & [ShieldCall](https://github.com/GalaxyJammed/ShieldCall)
+- I'm currently working on - [SoNotes](https://github.com/GalaxyJammed/SoNotes) & [EveryRead](https://github.com/GalaxyJammed/EveryRead)
 
 - I'm currently learning - Kotlin & Arduino IDE
 
@@ -28,4 +28,4 @@ University Student Attempting to publish fun projects
 
 ## [Current WIP Repository]
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Fsonotes&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/sonotes)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Fshieldcall&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/shieldcall)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Feveryread&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/everyread)
