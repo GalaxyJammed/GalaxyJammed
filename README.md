@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - None
+- I'm currently working on - [FoEcho](https://github.com/GalaxyJammed/FoEcho)
 
 - I'm currently learning - Kotlin & Arduino IDE
 
