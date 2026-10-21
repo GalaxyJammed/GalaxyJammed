@@ -1,5 +1,5 @@
 
-# $${\color{blue}Greetings\ Im\ GalaxyJam!}$$
+# Greetings Im GalaxyJam!
 
 
 ## [About Me]
