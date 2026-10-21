@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - [SoNotes](https://github.com/GalaxyJammed/SoNotes) & [EveryReader](https://github.com/GalaxyJammed/EveryReader)
+- I'm currently working on - None
 
 - I'm currently learning - Kotlin & Arduino IDE
 
