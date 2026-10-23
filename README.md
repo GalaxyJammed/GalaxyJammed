@@ -27,5 +27,4 @@ University Student Attempting to publish fun projects
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)
 
 ## [Current WIP Repository]
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Fsonotes&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/sonotes)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Feveryreader&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/everyreader)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Ffoecho&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/foecho)
