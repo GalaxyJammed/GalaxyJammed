@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - [FoEcho](https://github.com/GalaxyJammed/FoEcho)
+- I'm currently working on - None
 
 - I'm currently learning - Kotlin & Arduino IDE
 
@@ -26,5 +26,5 @@ University Student Attempting to publish fun projects
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GalaxyJammed&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=GalaxyJammed&show_icons=true&include_all_commits=true&theme=blue_navy)
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)
 
-## [Current WIP Repository]
+## [Latest Repository]
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Ffoecho&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/foecho)
