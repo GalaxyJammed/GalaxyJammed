@@ -7,7 +7,7 @@ University Student Attempting to publish fun projects
 
 
 ## [Additional Info]
-- I'm currently working on - None
+- I'm currently working on - [LoopATempo](https://github.com/GalaxyJammed/LoopATempo)
 
 - I'm currently learning - Kotlin & Arduino IDE
 
@@ -27,4 +27,4 @@ University Student Attempting to publish fun projects
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=GalaxyJammed&langs_count=4&theme=blue_navy)
 
 ## [Latest Repository]
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Ffoecho&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/foecho)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=GalaxyJammed&repo=galaxyjammed%2Floopatempo&show_owner=true&theme=blue_navy)](https://github.com/galaxyjammed/loopatempo)
